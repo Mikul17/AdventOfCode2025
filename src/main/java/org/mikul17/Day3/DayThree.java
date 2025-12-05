@@ -1,4 +1,4 @@
-package org.mikul17.DayThree;
+package org.mikul17.Day3;
 
 
 import java.io.IOException;

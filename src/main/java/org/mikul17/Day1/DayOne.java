@@ -1,4 +1,4 @@
-package org.mikul17.DayOne;
+package org.mikul17.Day1;
 
 import java.io.IOException;
 import java.nio.file.Files;
